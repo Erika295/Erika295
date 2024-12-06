@@ -3,7 +3,9 @@
 
 - 🔭 Eu sou uma desenvolvedora (front-end|Back-End)
 - 🌱 Estudando Typescript
-- 👯 contate-me  email*erikinha0695@gmail.com
+- 👯 contate-me
+-11 966062731
+- email*erikinha0695@gmail.com
 - 😄 Erika Sales
 
 -->
